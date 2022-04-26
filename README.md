@@ -15,6 +15,9 @@ conda install -c anaconda swig
 #### Install box2d
 pip install -e ".box2d" 
 
+# DQN
+
+
 # PPO
 To train PPO file
 
