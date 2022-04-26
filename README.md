@@ -16,7 +16,15 @@ conda install -c anaconda swig
 pip install -e ".box2d" 
 
 # DQN
+To train
 
+cd DQN
+python3 Car_Racing_Train_DQN.py
+
+To test
+
+cd DQN
+python3 Car_Racing_Test_DQN.py
 
 # PPO
 To train PPO file
