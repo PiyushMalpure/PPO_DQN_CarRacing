@@ -7,7 +7,7 @@ It was found that PPO algorithm performed better than DQN algorithm in playing t
 # Environment setup
 
 #### Gym installation
-pip install gym[box2d]
+pip install gym[box2d]==0.23.1
 #### Install swig
 pip install swig
 conda install -c anaconda swig
